@@ -54,4 +54,5 @@ Synexa is not a text model and is not a substitute for Sonnet 5 on reasoning or 
 
 Prices in this page are the ones printed in the sources on the snapshot date; the pricing page is the source of truth. And if the reason you are comparing sonnet 5 alternatives is that your product also has to produce images, video or audio, [try Synexa - one endpoint and Python SDK for FLUX, video and audio models, pay per run](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=sonnet-5-alternatives&utm_content=readme-top&utm_term=tier-r).
 
+
 _Last reviewed: 2026-09-22_
